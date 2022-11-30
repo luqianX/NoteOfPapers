@@ -1,5 +1,7 @@
 # 用于DeepFake视频检测的动态不一致性学习
 
+* 
+
 ## 0.摘要
 
 ## 1.简介
@@ -16,9 +18,13 @@
 
 ### 3.1 段内模块Intra-Snippet Inconsistency Module
 
-<img src="C:\Users\26230\Desktop\yjs\0\FiddleAwayTime\NoteOfPapers\DelveIntoTheLocal\appendix\002.png" alt="image-20221129231513295" style="zoom: 67%;" /><img src="C:\Users\26230\Desktop\yjs\0\FiddleAwayTime\NoteOfPapers\DelveIntoTheLocal\appendix\003.png" alt="003" style="zoom: 67%;" />
+<img src="C:\Users\26230\Desktop\yjs\0\FiddleAwayTime\NoteOfPapers\DelveIntoTheLocal\appendix\002.png" alt="image-20221129231513295" style="zoom: 67%;" />
 
-* 原论文的**Intra-SIM** 框架建议进行如上的修改；
+* 原论文的**Intra-SIM** 框架如上图所示；
+* ChannelNet论文地址：**[https://arxiv.org/abs/1809.01330](https://links.jianshu.com/go?to=https%3A%2F%2Farxiv.org%2Fabs%2F1809.01330)**；
+* <font color='red'>？这个注意力机制是怎么个原理，还有最后的深度可分离卷积怎么实现的</font>
 
 ### 3.2 段间模块Inter-Snippet Interaction Module
+
+* <font color='red'>？核心问题还是在于他的注意力机制是怎么一回事，不能直接用自注意力实现吗</font>
 
