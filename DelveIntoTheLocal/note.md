@@ -18,7 +18,7 @@
 
 ### 3.1 段内模块Intra-Snippet Inconsistency Module
 
-<img src="C:\Users\26230\Desktop\yjs\0\FiddleAwayTime\NoteOfPapers\DelveIntoTheLocal\appendix\002.png" alt="image-20221129231513295" style="zoom: 67%;" />
+<img src=".\appendix\002.png" alt="image-20221129231513295" style="zoom: 67%;" />
 
 * 原论文的**Intra-SIM** 框架如上图所示；
 * ChannelNet论文地址：**[https://arxiv.org/abs/1809.01330](https://links.jianshu.com/go?to=https%3A%2F%2Farxiv.org%2Fabs%2F1809.01330)**；
