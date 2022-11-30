@@ -1,0 +1,1 @@
+# ChannelNets: Compact and Effificient Convolutional Neural Networks via Channel-Wise Convolutions
